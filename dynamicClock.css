@@ -1,0 +1,24 @@
+.card {
+    height: 300px;
+}
+
+.one {
+    height: 10%;
+    width: 100%;
+}
+
+.Dy {
+    text-align: center;
+}
+
+.COL {
+    height: 200px;
+    border: 1px solid gold;
+    position: relative;
+    text-align: center;
+}
+
+#Bar {
+    height: 10px;
+    background-color: red;
+}
