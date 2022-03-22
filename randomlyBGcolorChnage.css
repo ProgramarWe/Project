@@ -1,0 +1,19 @@
+body {
+    font-size: large;
+    color: aqua;
+    background-color: black;
+}
+
+
+
+.text {
+    margin: 100px;
+    text-align: center;
+}
+
+
+
+
+#BtnOne {
+    margin-left: 540px;
+}
